@@ -7,9 +7,9 @@ clrscr()
 scanf("%c",c);
 if(c>='A'||c<='Z'||c>='a'||c<='z')
 {
-printf("It is character");
+printf("It is Alphabet");
 }
 else
-printf("It is not a character");
+printf("It is not a Alphabet");
 getch();
 }
